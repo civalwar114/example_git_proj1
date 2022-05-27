@@ -1,3 +1,7 @@
+// 깃 테스트용 주석 문구
+//가나다라마바사
+//abcdefg
+//1234567890
 const http = require('http');
 const express = require('express');
 const app = express();
